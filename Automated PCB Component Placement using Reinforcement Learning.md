@@ -1,4 +1,4 @@
-# Automated PCB Component Placement using Reinforcement Learning 2023](https://www.lukevassallo.com/wp-content/uploads/2023/09/automated_pcb_component_placement_using_rl_msc_thesis_v2_1_lv.pdf)
+# [Automated PCB Component Placement using Reinforcement Learning 2023](https://www.lukevassallo.com/wp-content/uploads/2023/09/automated_pcb_component_placement_using_rl_msc_thesis_v2_1_lv.pdf)
 
 ---
 
