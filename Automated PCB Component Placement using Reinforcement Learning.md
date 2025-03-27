@@ -1,4 +1,4 @@
-# Automated PCB Component Placement using Reinforcement Learning』(2023)](https://www.lukevassallo.com/wp-content/uploads/2023/09/automated_pcb_component_placement_using_rl_msc_thesis_v2_1_lv.pdf)
+# Automated PCB Component Placement using Reinforcement Learning 2023](https://www.lukevassallo.com/wp-content/uploads/2023/09/automated_pcb_component_placement_using_rl_msc_thesis_v2_1_lv.pdf)
 
 ---
 
@@ -31,6 +31,3 @@ PCB(Printed Circuit Board)의 부품 배치는 PCB 설계의 첫 단계이며, �
 ## 결론 및 기여점
 본 연구는 PCB 부품 자동 배치 문제에 RL을 성공적으로 적용하고, 전문가 지식 없이도 일반화 가능한 정책을 학습할 수 있음을 보여주었다. 연구 결과는 오픈 소스로 공개되어 있으며, 향후 연구에서 데이터 기반 접근 방식을 활용한 PCB 설계 자동화의 발전 가능성을 제시하였다.
 
----
-
-이상으로 논문의 주요 내용을 요약했습니다. 추가적인 내용이 필요하시면 알려주세요.
