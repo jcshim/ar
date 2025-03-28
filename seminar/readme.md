@@ -1,4 +1,4 @@
-## [Luke 논문 학습 및 요약](./luke.md)
+## [Luke 논문 학습 및 요약](luke.md)
 
 ## 3월30일 일요일 오후5시에 특별세미나
 ## 강사: University of Malta, Luke Vassallo
