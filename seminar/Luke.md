@@ -1,7 +1,7 @@
 ### 3월30일 일요일 오후5시에 특별세미나
 1. 강사: University of Malta, Luke Vassallo
-2. PCB Auto Routing 전문가이며, 다음 석사논문 저자 입니다.
-3. GPT 활용해서 예습 부탁드려요. 1인당 하난씩 질문하기.
+2. PCB Auto Routing 전문가이며, 석사논문 저자
+3. GPT 활용해서 예습 부탁드려요. 1인당 하나씩 질문하기.
 
 ---
 
