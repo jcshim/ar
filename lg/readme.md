@@ -3,4 +3,5 @@
 ## 1. [Summary](0.summary.md)
 ## 2. [Grid PCB AI](1.grid.md) 
 ## 3. [Continous PCB AI](2.continuous.md)
-## 4. [Grid + Continous - RRT PCB AI](3.rrt.md)
+## 4. [Pathfinder+ PCB AI](3.Pathfinder+.md)
+## 5. [Grid + Continous - RRT PCB AI](3.rrt.md)
