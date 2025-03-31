@@ -1,6 +1,5 @@
 # Auto Routing
 
-## [세미나](seminar/readme.md)
 ## [LG의 PCB 자동설계](lg/readme.md)
 ### [PCB 설계 (KiCAD)](https://m.blog.naver.com/sohnet/222629751218)
 ### [PCB 설계 요약](https://youtu.be/ITiRL_1lt_0?si=1YAq4duNzaVqSNy0)
@@ -80,4 +79,6 @@
 - KiCAD 플러그인 개발용 코드 뼈대  
 - 발표 자료나 보고서용 비교표  
 바로 만들어드릴 수 있어요!
+
+## [세미나](seminar/readme.md)
 
